@@ -6,6 +6,8 @@
 Created by Patrick Kiebler
 Created on October 26, 2015 
     maintenance log
+    
+    required maintenance: change picture and description
 */
     
 EndRoom: Room
